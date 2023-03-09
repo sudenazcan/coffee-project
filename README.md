@@ -4,7 +4,7 @@
 
 🔵 09.03.2023
 
-🔵 Demo: sudenazcan.github.io/diyanet-isleri-clone/
+🔵 Demo: https://sudenazcan.github.io/coffee-project/
 
 🔵 Techs: HTML,CSS
 
